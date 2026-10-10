@@ -6,7 +6,7 @@ import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import { connectDB } from './config/db.js';
 import authRouter from './routes/auth.routes.js';
-import actionsRouter from './routes/index.js';
+import actionsRouter from './routes/actions.routes.js';
 import { errorHandler } from './middlewares/error.middleware.js';
 
 const app = express();
