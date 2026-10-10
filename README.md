@@ -18,9 +18,7 @@ A full-stack calculation and user activity tracking application built with **Nod
   - [Health Check](#health-check)
   - [Authentication Endpoints](#authentication-endpoints)
   - [Action & Calculation Endpoints](#action--calculation-endpoints)
-- [Developer Guide: How to Create Professional README Files](#-developer-guide-how-to-create-professional-readme-files)
-- [Edge Cases Solved in the Backend (Calculator & Logic)](#-edge-cases-solved-in-the-backend-calculator--logic)
-
+- [Expression Edge Cases](#expression-edge-cases)
 ---
 
 ## Features
